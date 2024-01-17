@@ -1,21 +1,12 @@
 import 'package:flutter/material.dart';
 
+import 'package:roll_dice/gradient_container.dart';
+
 void main() {
   runApp(
-    MaterialApp(
-      home: Scaffold(
-        body: Container(
-          decoration: BoxDecoration(
-            gradient: LinearGradient(
-                colors: [Colors.blueAccent, Colors.purpleAccent],
-                begin: Alignment.topLeft,
-                end: Alignment.bottomRight),
-          ),
-          child: const Center(
-            child: Text("Hello World"),
-          ),
-        ),
-      ),
+    const MaterialApp(
+      home: Scaffold(body: GradientContainer()),
     ),
   );
 }
+
