@@ -1,16 +1,22 @@
-# roll_dice
+# ROLL DICE
 
-A new Flutter project.
+Project made during a <a href="https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/)https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/">course on Udemy</a>.
 
-## Getting Started
+<hr />
 
-This project is a starting point for a Flutter application.
+Status: DONE
 
-A few resources to get you started if this is your first Flutter project:
+<hr />
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Learned how to:
+* Create a project
+* Create simple Widgets
+* Change app background
+* Change State in the same file
+* Add and manipulate Images using simple state
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<hr />
+
+Image:
+
+![image](https://github.com/AnaLinsDev/flutter_roll_dice/assets/60307596/f6a50fc0-6756-445a-b3fd-542bd6f56ece)
